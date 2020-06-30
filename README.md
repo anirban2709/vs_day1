@@ -1,2 +1,2 @@
-# vs_day1
-1stday
+# p5.play-boilerplate
+Boiler plate for p5.play
